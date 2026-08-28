@@ -1,7 +1,7 @@
 import logging
 
-import dotenv
 
+import dotenv
 
 def load_environment_variables():
     """Loads environment variables from the .env file."""
