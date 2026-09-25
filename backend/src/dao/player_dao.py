@@ -5,7 +5,6 @@ from utils.singleton import Singleton
 
 logger = get_logger(__name__)
 
-
 class PlayerDao(metaclass=Singleton):
     """Class containing methods to access Players in the database."""
 
